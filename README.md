@@ -1,3 +1,4 @@
+
 # ChessGame
 
 A real-time, multiplayer chess game built with Node.js, Express, and Socket.IO. This project allows two players to play chess interactively in their browsers, with a third (or more) able to join as spectators. The game features a draggable UI chessboard, turn-based play enforcement, and automatic board updates for all connected users.
@@ -14,7 +15,10 @@ A real-time, multiplayer chess game built with Node.js, Express, and Socket.IO. 
 
 ## Demo
 
-![ChessGame UI](https://github.com/MaahiAgarwal/ChessGame/blob/main/DemoVideo.mp4) <!-- Add a screenshot of the main UI if available -->
+![ChessGame UI]
+
+https://github.com/user-attachments/assets/2adde48a-ea93-4536-883b-d0f28c5d16cc
+
 
 ## Getting Started
 
